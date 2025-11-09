@@ -1,6 +1,6 @@
 # NestJS with GraphQL: Build a Modern API from Scratch
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6910156b11ad6136f35d259e/nestjs-with-graphql-build-a-modern-api-from-scratch).
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
